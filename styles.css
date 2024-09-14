@@ -68,7 +68,7 @@ a:hover {
 }
 
 @media (max-width: 768px) {
-  a {
-      font-size: 14px; /* Переконайтеся, що розмір тексту не надто малий для телефону */
+  header p {
+    display: block;
   }
 }
